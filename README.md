@@ -1,0 +1,2 @@
+# -err.description-is-
+ "err.description is: "    &amp; @TAB &amp; $errADODB.description    &amp; @CRLF &amp; _              "err.windescription:"     &amp; @TAB &amp; $errADODB.windescription &amp; @CRLF &amp; _              "err.number is: "         &amp; @TAB &amp; hex($errADODB.number,8)  &amp; @CRLF &amp; _              "err.lastdllerror is: "   &amp; @TAB &amp; $errADODB.lastdllerror   &amp; @CRLF &amp; _
